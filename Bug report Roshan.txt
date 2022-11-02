@@ -1,0 +1,24 @@
+Bug Name - Application crashes upon clicking the Login and Register button.
+Severity - HIGH
+Priority - HIGH
+Assigned - Developer-xyz
+Reported By - Roshan Kedar
+Reported on -31/10/2022
+Environment - Windows
+
+Description - Application crashes upon clicking the Login and Register button ,
+              hence unable to create a new user in the application.
+
+Steps to Reproduce - 
+  1) open the application  
+  2) Filled out all the user information in fields into the login & Register page
+  3) clicked on the Login and Register button.
+  4) seen an error page 419 | page Expired.
+
+Expected Result: On clicking the Login and Register button, you should be prompted to 
+                   a successful message "Login successful" and “New User has been created successfully”.
+
+
+
+
+
